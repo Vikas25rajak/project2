@@ -3,4 +3,4 @@
 
   #  Demo project 
       
-       demo project to check push local to remote github..
+       demo project to check push local to remote github...
